@@ -1,4 +1,4 @@
-# Infinity Bots (https://t.me/Infinity_Bots)
+# Infinity Bots (https://t.me/Ellycarlmusicbot)
 
 import os
 import aiohttp
